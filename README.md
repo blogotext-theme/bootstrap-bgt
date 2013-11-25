@@ -1,4 +1,4 @@
 bootstrap-bgt
 =============
 
-Bootstrap theme for blogotext
+Coming soon ... Bootstrap theme for blogotext
